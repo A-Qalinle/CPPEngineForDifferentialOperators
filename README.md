@@ -4,7 +4,7 @@ A C++17 engine for differential operators with polynomial coefficients: exact op
 
 
 
-text
+
 > Dx*x
 x*Dx + 1
 > monodromy x^2*Dx^2 + x*Dx + x^2 - 1/9
