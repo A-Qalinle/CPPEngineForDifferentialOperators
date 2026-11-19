@@ -1,4 +1,4 @@
-holonomic
+
 
 A C++17 engine for differential operators with polynomial coefficients: exact operator algebra, plus numerical solving and monodromy in the complex plane.
 
